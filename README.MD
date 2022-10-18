@@ -7,7 +7,7 @@ This Dockerfile builds an image based on the `amazoncorretto:19-alpine-jdk` imag
 Use Java to build the `HelloWorld.class` file in the `./out` directory:
 
 ```console
-C:\Users\antonio> javac -d ./out HelloWorld.java
+C:\Users\Nacho\OneDrive - UNIVERSIDAD DE SEVILLA\MASTER\15 LABORATORIO> javac -d ./out HelloWorld.java
 ```
 
 Then, build the image:
